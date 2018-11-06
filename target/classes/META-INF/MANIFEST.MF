@@ -4,7 +4,7 @@ Implementation-Title: springboot-dubbo ￦ﾜﾍ￥ﾊﾡ￧ﾫﾯ:: ￦ﾕﾴ�
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: taoxi
 Implementation-Vendor-Id: com.taoxinhuan
-Build-Jdk: 1.8.0_151
+Build-Jdk: 1.8.0_181
 Implementation-URL: http://projects.spring.io/spring-boot/springboot-d
  ubbo-server/
 Created-By: Maven Integration for Eclipse
